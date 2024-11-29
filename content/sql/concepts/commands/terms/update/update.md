@@ -35,5 +35,5 @@ The given query will update the row for a specific customer ID in the `customers
 ```sql
 UPDATE customers
 SET name = 'Code Ninja', city = 'Brooklyn'
-WHERE customer_id = 123;
+WHERE customer_id = 121;
 ```
